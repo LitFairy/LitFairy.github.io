@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000小寶貝，&nbsp;&nbsp;張英：", 
-				"一瞬間，^200一起度了過數千天；<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在今日『2021/08/14』的^200情人節🎋，^600近你耳邊^600輕語^200一聲:^600情人節快樂~~^200<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;長久，^300期間的美好、^600回憶總在生活零碎之時，^300讓我回憶起和你的快樂日子，^600甚至珍惜；^300感人間值得！<br><br><p style='float:right; display:block; width:80px;'>^1000偕臧^200</p>"],
+				"一瞬間，^200一起度了過數千天；<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在今日『2021/08/14』的^200情人節🎋，^600近你耳邊^600輕語^200一聲:^600情人節快樂~~^200<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;長久，^300期間的美好、^600回憶總在生活零碎之時，^300讓我回憶起和你的快樂日子，^600甚至珍惜；^300感人間值得！<br><br><p style='float:right; display:block; width:80px;'>^1000偕臧</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
